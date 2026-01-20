@@ -9,12 +9,12 @@ export default function Navbar() {
 			<div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 				<div className="flex justify-between items-center h-20">
 					{/* Logo */}
-					<div className="flex items-center flex-shrink-0">
+					<a href="/" className="flex items-center flex-shrink-0 hover:opacity-80 transition-opacity duration-200">
 						<img src={logo} alt="Software Sekolah Logo" className="h-10 w-auto" />
 						<span className="font-bold text-lg text-gray-900">
 							Software<span className="text-teal-600">Sekolah</span>
 						</span>
-					</div>
+					</a>
 
 					{/* Desktop Navigation */}
 					<nav className="hidden md:flex items-center gap-8 text-sm">
@@ -29,7 +29,7 @@ export default function Navbar() {
 							href="#Features"
 							className="relative text-gray-600 font-medium transition-colors duration-300 hover:text-teal-600 group"
 						>
-							Fitur
+							Fitur Kami
 							<span className="absolute left-0 bottom-0 w-0 h-0.5 bg-gradient-to-r from-teal-500 to-teal-600 transition-all duration-300 group-hover:w-full"></span>
 						</a>
 						<a

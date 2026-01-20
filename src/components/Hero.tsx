@@ -2,7 +2,7 @@ import { MessageCircle } from 'lucide-react';
 
 export default function Hero() {
 	return (
-		<section className="relative bg-slate-100 pt-25 sm:pt-35 lg:pt-30 pb-16 sm:pb-15  overflow-hidden">
+		<section className="relative bg-slate-50 pt-25 sm:pt-35 lg:pt-30 pb-16 sm:pb-15  overflow-hidden">
 			{/* Background decoration */}
 			<div className="absolute inset-0 pointer-events-none">
 				<div className="absolute top-20 right-0 w-96 h-96 bg-gradient-to-br from-teal-100 to-blue-100 rounded-full blur-3xl opacity-20"></div>
@@ -23,7 +23,7 @@ export default function Hero() {
 					Manajemen Sekolah
 					<br className="hidden sm:inline" />
 					<span >Tinggal </span>
-					<span className="relative bg-gradient-to-r from-teal-400 via-blue-500 to-emerald-400 bg-clip-text text-transparent">"Klik"</span>
+					<span className="relative bg-gradient-to-r from-blue-600 via-yellow-400 to-teal-600 bg-clip-text text-transparent">"Klik"</span>
 				</h1>
 
 				{/* Description */}

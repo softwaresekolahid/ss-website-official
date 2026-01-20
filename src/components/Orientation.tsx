@@ -12,7 +12,7 @@ export default function Advantage() {
             </h2>
             
             <p className="text-gray-600 mb-4 leading-relaxed">
-              Layanan Sistem Informasi Manajemen Sekolah Terintegrasi yang 
+              Kami adalah Layanan Sistem Informasi Manajemen Sekolah Terintegrasi yang 
               menghubungkan seluruh bagian sekolah dalam satu platform digital.
             </p>
             
@@ -47,14 +47,14 @@ export default function Advantage() {
           </div>
           
           {/* Right Content - Card */}
-          <div>
+          <div data-aos="fade-right" data-aos-duration="1500">
             <div className="bg-white rounded-3xl shadow-xl p-8 md:p-10 border border-gray-100">
               <div className="mb-8">
                 <h3 className="text-2xl font-bold text-gray-800 mb-2">
                   Saatnya Go Digital! 
                 </h3>
                 <p className="text-gray-600 text-sm leading-relaxed">
-                  Kenalkan, SoftwareSekolah.com — solusi manajemen sekolah terintegrasi 
+                  Kenali, SoftwareSekolah.com — solusi manajemen sekolah terintegrasi 
                   yang membantu sekolah bekerja lebih efektif, transparan, dan profesional.
                 </p>
               </div>
