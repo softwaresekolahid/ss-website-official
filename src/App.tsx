@@ -8,24 +8,26 @@ import Features from './components/Features';
 import Footer from './components/Footer';
 import Advantage from './components/Advantage';
 
+const AOS_CONFIG = {
+  duration: 1000,
+  once: true,
+};
+
 function App() {
-   useEffect(() => {
-    AOS.init({
-      duration: 1000,
-      once: true,
-    });
+  useEffect(() => {
+    AOS.init(AOS_CONFIG);
   }, []);
 
   return (
-    <div className='min-h-screen overflow-hidden'>
-      <Navbar/>
-      <Hero/>
-      <Orientation/>
-      <Features/>
-      <Advantage/>
-      <Footer/>
+    <div className="min-h-screen overflow-hidden">
+      <Navbar />
+      <Hero />
+      <Orientation />
+      <Features />
+      <Advantage />
+      <Footer />
     </div>
   );
-  
 }
-export default App
+
+export default App;

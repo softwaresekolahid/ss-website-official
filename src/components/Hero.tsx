@@ -5,8 +5,8 @@ export default function Hero() {
 		<section className="relative bg-slate-50 pt-25 sm:pt-35 lg:pt-30 pb-16 sm:pb-15  overflow-hidden">
 			{/* Background decoration */}
 			<div className="absolute inset-0 pointer-events-none">
-				<div className="absolute top-20 right-0 w-96 h-96 bg-gradient-to-br from-teal-100 to-blue-100 rounded-full blur-3xl opacity-20"></div>
-				<div className="absolute -bottom-20 left-1/3 w-96 h-96 bg-gradient-to-br from-emerald-100 to-teal-100 rounded-full blur-3xl opacity-20"></div>
+				<div className="absolute top-20 right-0 w-96 h-96 bg-linear-to-br from-teal-100 to-blue-100 rounded-full blur-3xl opacity-20"></div>
+				<div className="absolute -bottom-20 left-1/3 w-96 h-96 bg-linear-to-br from-emerald-100 to-teal-100 rounded-full blur-3xl opacity-20"></div>
 			</div>
 
 			<div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
@@ -23,7 +23,7 @@ export default function Hero() {
 					Manajemen Sekolah
 					<br className="hidden sm:inline" />
 					<span >Tinggal </span>
-					<span className="relative bg-gradient-to-r from-blue-600 via-yellow-400 to-teal-600 bg-clip-text text-transparent">"Klik"</span>
+					<span className="relative bg-linear-to-r from-blue-600 via-yellow-400 to-teal-600 bg-clip-text text-transparent">"Klik"</span>
 				</h1>
 
 				{/* Description */}
@@ -35,7 +35,7 @@ export default function Hero() {
 				<div className="flex flex-col sm:flex-row justify-center gap-4 sm:gap-6">
 					<a
 						href="https://request-demo.softwaresekolah.com/"
-						className="inline-flex items-center justify-center gap-3 px-6 sm:px-8 py-3.5 rounded-full bg-gradient-to-r from-teal-500 to-emerald-500 text-white font-semibold text-sm shadow-lg hover:shadow-xl hover:opacity-95 transition"
+className="inline-flex items-center justify-center gap-3 px-6 sm:px-8 py-3.5 rounded-full bg-linear-to-r from-teal-500 to-emerald-500 text-white font-semibold text-sm shadow-lg hover:shadow-xl hover:opacity-95 transition"
 						target='_blank'
 					>
 						<MessageCircle className="w-5 h-5" />

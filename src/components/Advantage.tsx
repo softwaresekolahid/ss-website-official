@@ -24,7 +24,7 @@ export default function Advantage() {
       icon: Shield,
       title: "Terpercaya",
       description: "Dilengkapi dengan berstandar internasional untuk keamanan dan kestabilan data sekolah.",
-      color: "gray"
+      color: "purple"
     }
   ];
 
@@ -44,6 +44,10 @@ export default function Advantage() {
     gray: {
       bg: "bg-gray-50",
       icon: "text-gray-600"
+    },
+    purple: {
+      bg: "bg-purple-50",
+      icon: "text-purple-600"
     }
   };
 
@@ -99,7 +103,7 @@ export default function Advantage() {
         </div>
 
         {/* CTA Banner */}
-        <div className="relative rounded-3xl bg-gradient-to-r from-slate-800 via-emerald-800 to-emerald-600 p-12 md:p-16 text-center overflow-hidden shadow-2xl">
+        <div className="relative rounded-3xl bg-linear-to-r from-slate-800 via-emerald-800 to-emerald-600 p-12 md:p-16 text-center overflow-hidden shadow-2xl">
           {/* Decorative elements */}
           <div className="absolute top-0 right-0 w-64 h-64 bg-emerald-500 rounded-full opacity-20 blur-3xl"></div>
           <div className="absolute bottom-0 left-0 w-64 h-64 bg-slate-700 rounded-full opacity-20 blur-3xl"></div>
