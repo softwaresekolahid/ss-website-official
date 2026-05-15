@@ -20,15 +20,6 @@
 - [About The Project](#about-the-project)
 - [Prerequisites](#prerequisites)
 - [Quick Start](#quick-start)
-- [Tech Stack](#tech-stack)
-- [Architecture](#architecture)
-- [Features](#features)
-- [Available Scripts](#available-scripts)
-- [Configuration](#configuration)
-- [Customization Guide](#customization-guide)
-- [Contributing](#contributing)
-- [Support](#support)
-- [License](#license)
 
 ---
 
