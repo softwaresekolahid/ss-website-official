@@ -27,26 +27,6 @@
 
 a redesign effort of the current ss website.
 
-### 🌟 Key Highlights
-
-- **⚡ Lightning Fast**: Built with Vite for optimal performance and instant page loads
-- **🎨 Smooth Animations**: AOS (Animate On Scroll) for engaging, eye-catching effects
-- **📱 Responsive Design**: Mobile-first approach with seamless desktop/tablet experience
-- **🧪 Type Safe**: Full TypeScript coverage with strict type checking
-- **♿ Accessibility**: Built with accessibility in mind for all users
-- **🎪 Modern Components**: Clean, reusable React components with proper composition
-- **🔧 Developer Experience**: Hot reloading, ESLint integration, and modern tooling
-
-### 🎪 Live Features
-
-- **Professional Navigation Bar** with responsive mobile menu
-- **Hero Section** with engaging call-to-action
-- **Orientation Section** highlighting program information
-- **Features Showcase** displaying key benefits and capabilities
-- **Advantages Section** emphasizing competitive strengths
-- **Professional Footer** with essential links and information
-- **Smooth Scroll Animations** using AOS library
-
 ---
 
 ## 🔧 Prerequisites
