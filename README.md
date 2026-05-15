@@ -1,4 +1,4 @@
-# Software Sekolah - Official Website
+# Software Sekolah - Redesign website task 
 
 <div align="center">
 
@@ -25,7 +25,7 @@
 
 ## 🎯 About The Project
 
-Software Sekolah Official Website is a modern, professional React.js application designed to showcase the Software Sekolah organization. Built with cutting-edge web technologies and optimized for performance, this website delivers an excellent user experience across all devices.
+a redesign effort of the current ss website.
 
 ### 🌟 Key Highlights
 
