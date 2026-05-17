@@ -9,7 +9,7 @@
 
 *A modern, high-performance React.js website featuring smooth animations, responsive design, and professional UI components.*
 
-[🚀 Live Site](#) • [📖 Documentation](#documentation) • [🛠️ Setup Guide](#quick-start) • [🏗️ Architecture](#architecture)
+[📖 Documentation](#documentation) • [🛠️ Setup Guide](#quick-start) • [🏗️ Architecture](#architecture)
 
 </div>
 
@@ -26,6 +26,7 @@
 ## 🎯 About The Project
 
 a redesign effort of the current ss website.
+https://softwaresekolah.com/ 
 
 ---
 
@@ -106,4 +107,13 @@ npm run dev
 # 🌐 Local:    http://localhost:5173/
 # 🌐 Network:  http://[your-ip]:5173/
 ```
-
+## Tech Stack
+| Technology |	Purpose |
+|---------|---------|
+| React 19.2 |	UI library |
+| TypeScript 5.9 |	Type safety |
+| Vite 7.2 |	Build tool |
+| Tailwind CSS | 4.1	Styling |
+| AOS 2.3 |	Scroll animations |
+| React Router 7.11 |	Navigation |
+| Lucide React |	Icons |
