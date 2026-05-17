@@ -17,9 +17,9 @@
 
 ## 📋 Table of Contents
 
-- [About The Project](#about-the-project)
-- [Prerequisites](#prerequisites)
-- [Quick Start](#quick-start)
+- [About The Project](##about-the-project)
+- [Prerequisites](##prerequisites)
+- [Quick Start](##quick-start)
 
 ---
 
